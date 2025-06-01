@@ -38,6 +38,11 @@
             key-positions = <24 25>;
             layers = <0>;
         };
+
+        cmb-lang_change {
+            bindings = <&kp LG(SPACE)>;
+            key-positions = <36 24>;
+        };
     };
 
     keymap {
