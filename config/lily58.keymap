@@ -41,7 +41,7 @@
         };
 
         cmb-lang_change {
-            bindings = <&kp GLOBE>;
+            bindings = <&kp C_AL_KEYBOARD_LAYOUT>;
             key-positions = <36 24>;
             layers = <0>;
         };
