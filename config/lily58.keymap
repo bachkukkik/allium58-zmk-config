@@ -41,7 +41,7 @@
         };
 
         cmb-lang_change {
-            bindings = <&kt C_AL_KEYBOARD_LAYOUT>;
+            bindings = <&kp C_AC_NEXT_KEYBOARD_LAYOUT_SELECT>;
             key-positions = <36 24>;
             layers = <0>;
         };
