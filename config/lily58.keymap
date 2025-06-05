@@ -41,7 +41,7 @@
         };
 
         cmb-lang_change {
-            bindings = <&kp LG(SPACE)>;
+            bindings = <&kp GLOBE>;
             key-positions = <36 24>;
             layers = <0>;
         };
